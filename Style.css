@@ -1,0 +1,7 @@
+.favorite {
+    color: gray;
+    cursor: pointer;
+}
+.favorite.active {
+    color: red;
+}
